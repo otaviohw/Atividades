@@ -1,0 +1,15 @@
+D:\vscode\Encriptar\bin\Debug\net8.0\Encriptar.exe
+D:\vscode\Encriptar\bin\Debug\net8.0\Encriptar.deps.json
+D:\vscode\Encriptar\bin\Debug\net8.0\Encriptar.runtimeconfig.json
+D:\vscode\Encriptar\bin\Debug\net8.0\Encriptar.dll
+D:\vscode\Encriptar\bin\Debug\net8.0\Encriptar.pdb
+D:\vscode\Encriptar\obj\Debug\net8.0\Encriptar.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\Encriptar\obj\Debug\net8.0\Encriptar.AssemblyInfoInputs.cache
+D:\vscode\Encriptar\obj\Debug\net8.0\Encriptar.AssemblyInfo.cs
+D:\vscode\Encriptar\obj\Debug\net8.0\Encriptar.csproj.CoreCompileInputs.cache
+D:\vscode\Encriptar\obj\Debug\net8.0\Encriptar.dll
+D:\vscode\Encriptar\obj\Debug\net8.0\refint\Encriptar.dll
+D:\vscode\Encriptar\obj\Debug\net8.0\Encriptar.pdb
+D:\vscode\Encriptar\obj\Debug\net8.0\Encriptar.genruntimeconfig.cache
+D:\vscode\Encriptar\obj\Debug\net8.0\ref\Encriptar.dll
+D:\vscode\Encriptar\obj\Debug\net8.0\Encriptar.sourcelink.json
