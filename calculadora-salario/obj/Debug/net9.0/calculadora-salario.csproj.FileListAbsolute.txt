@@ -1,0 +1,15 @@
+D:\vscode\Atividades\calculadora-salario\bin\Debug\net9.0\calculadora-salario.exe
+D:\vscode\Atividades\calculadora-salario\bin\Debug\net9.0\calculadora-salario.deps.json
+D:\vscode\Atividades\calculadora-salario\bin\Debug\net9.0\calculadora-salario.runtimeconfig.json
+D:\vscode\Atividades\calculadora-salario\bin\Debug\net9.0\calculadora-salario.dll
+D:\vscode\Atividades\calculadora-salario\bin\Debug\net9.0\calculadora-salario.pdb
+D:\vscode\Atividades\calculadora-salario\obj\Debug\net9.0\calculadora-salario.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\Atividades\calculadora-salario\obj\Debug\net9.0\calculadora-salario.AssemblyInfoInputs.cache
+D:\vscode\Atividades\calculadora-salario\obj\Debug\net9.0\calculadora-salario.AssemblyInfo.cs
+D:\vscode\Atividades\calculadora-salario\obj\Debug\net9.0\calculadora-salario.csproj.CoreCompileInputs.cache
+D:\vscode\Atividades\calculadora-salario\obj\Debug\net9.0\calculadora-salario.sourcelink.json
+D:\vscode\Atividades\calculadora-salario\obj\Debug\net9.0\calculadora-salario.dll
+D:\vscode\Atividades\calculadora-salario\obj\Debug\net9.0\refint\calculadora-salario.dll
+D:\vscode\Atividades\calculadora-salario\obj\Debug\net9.0\calculadora-salario.pdb
+D:\vscode\Atividades\calculadora-salario\obj\Debug\net9.0\calculadora-salario.genruntimeconfig.cache
+D:\vscode\Atividades\calculadora-salario\obj\Debug\net9.0\ref\calculadora-salario.dll

@@ -21,6 +21,8 @@ class Program
         // TODO: Calcule o salário líquido
         decimal salarioLiquido;
 
+        salarioLiquido = salarioBase + (horasExtras * valorHoraExtra) - descontoIR - descontoINSS;
+
         // Exibição do resultado
         Console.WriteLine($"{salarioLiquido:F2}");
     }
