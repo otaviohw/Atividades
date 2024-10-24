@@ -1,0 +1,15 @@
+D:\vscode\Atividades\mediadde-desempenho\obj\Debug\net9.0\mediadde-desempenho.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\Atividades\mediadde-desempenho\obj\Debug\net9.0\mediadde-desempenho.AssemblyInfoInputs.cache
+D:\vscode\Atividades\mediadde-desempenho\obj\Debug\net9.0\mediadde-desempenho.AssemblyInfo.cs
+D:\vscode\Atividades\mediadde-desempenho\obj\Debug\net9.0\mediadde-desempenho.csproj.CoreCompileInputs.cache
+D:\vscode\Atividades\mediadde-desempenho\obj\Debug\net9.0\mediadde-desempenho.sourcelink.json
+D:\vscode\Atividades\mediadde-desempenho\bin\Debug\net9.0\mediadde-desempenho.exe
+D:\vscode\Atividades\mediadde-desempenho\bin\Debug\net9.0\mediadde-desempenho.deps.json
+D:\vscode\Atividades\mediadde-desempenho\bin\Debug\net9.0\mediadde-desempenho.runtimeconfig.json
+D:\vscode\Atividades\mediadde-desempenho\bin\Debug\net9.0\mediadde-desempenho.dll
+D:\vscode\Atividades\mediadde-desempenho\bin\Debug\net9.0\mediadde-desempenho.pdb
+D:\vscode\Atividades\mediadde-desempenho\obj\Debug\net9.0\mediadde-desempenho.dll
+D:\vscode\Atividades\mediadde-desempenho\obj\Debug\net9.0\refint\mediadde-desempenho.dll
+D:\vscode\Atividades\mediadde-desempenho\obj\Debug\net9.0\mediadde-desempenho.pdb
+D:\vscode\Atividades\mediadde-desempenho\obj\Debug\net9.0\mediadde-desempenho.genruntimeconfig.cache
+D:\vscode\Atividades\mediadde-desempenho\obj\Debug\net9.0\ref\mediadde-desempenho.dll
