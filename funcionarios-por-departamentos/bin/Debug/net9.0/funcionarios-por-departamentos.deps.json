@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "funcionarios-por-departamentos/1.0.0": {
+        "runtime": {
+          "funcionarios-por-departamentos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "funcionarios-por-departamentos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

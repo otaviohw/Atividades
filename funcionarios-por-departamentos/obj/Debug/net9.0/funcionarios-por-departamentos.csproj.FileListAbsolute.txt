@@ -1,0 +1,15 @@
+D:\vscode\Atividades\funcionarios-por-departamentos\bin\Debug\net9.0\funcionarios-por-departamentos.exe
+D:\vscode\Atividades\funcionarios-por-departamentos\bin\Debug\net9.0\funcionarios-por-departamentos.deps.json
+D:\vscode\Atividades\funcionarios-por-departamentos\bin\Debug\net9.0\funcionarios-por-departamentos.runtimeconfig.json
+D:\vscode\Atividades\funcionarios-por-departamentos\bin\Debug\net9.0\funcionarios-por-departamentos.dll
+D:\vscode\Atividades\funcionarios-por-departamentos\bin\Debug\net9.0\funcionarios-por-departamentos.pdb
+D:\vscode\Atividades\funcionarios-por-departamentos\obj\Debug\net9.0\funcionarios-por-departamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\Atividades\funcionarios-por-departamentos\obj\Debug\net9.0\funcionarios-por-departamentos.AssemblyInfoInputs.cache
+D:\vscode\Atividades\funcionarios-por-departamentos\obj\Debug\net9.0\funcionarios-por-departamentos.AssemblyInfo.cs
+D:\vscode\Atividades\funcionarios-por-departamentos\obj\Debug\net9.0\funcionarios-por-departamentos.csproj.CoreCompileInputs.cache
+D:\vscode\Atividades\funcionarios-por-departamentos\obj\Debug\net9.0\funcionarios-por-departamentos.sourcelink.json
+D:\vscode\Atividades\funcionarios-por-departamentos\obj\Debug\net9.0\funcionarios-por-departamentos.dll
+D:\vscode\Atividades\funcionarios-por-departamentos\obj\Debug\net9.0\refint\funcionarios-por-departamentos.dll
+D:\vscode\Atividades\funcionarios-por-departamentos\obj\Debug\net9.0\funcionarios-por-departamentos.pdb
+D:\vscode\Atividades\funcionarios-por-departamentos\obj\Debug\net9.0\funcionarios-por-departamentos.genruntimeconfig.cache
+D:\vscode\Atividades\funcionarios-por-departamentos\obj\Debug\net9.0\ref\funcionarios-por-departamentos.dll
