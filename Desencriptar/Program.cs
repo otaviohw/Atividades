@@ -1,33 +1,32 @@
-﻿using System;
+﻿
+using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        // Solicita que o usuário digite uma palavra ou frase
-        Console.WriteLine("Digite uma palavra ou frase:");
-        string texto = Console.ReadLine().ToUpper();
+        Console.WriteLine("Digite o texto encriptado:");
+        string textoEncriptado = Console.ReadLine();
 
-        string textoEncriptado = "";
-
-        foreach (char letras in texto)
+        string textoOriginal = "";
+        for (int i = 0; i < textoEncriptado.Length; i++)
         {
-            // Verifica se o caractere é uma letra do alfabeto
-            if (char.IsLetter(letras))
+            if (char.IsDigit(textoEncriptado[i]) && (i == 0 || textoEncriptado[i - 1] != '.'))
             {
-                // Encontrar posição da letra no alfabeto.
-                int position = letras - 'A' + 1;
-                // Adiciona a posição ao resultado, formatado com 2 dígitos
-                textoEncriptado += position.ToString("00");
+                string numero = textoEncriptado.Substring(i, 2);
+                int position = int.Parse(numero);
+               
+                char letra = (char)('A' + position - 1);
+                textoOriginal += letra;
+                
+                i++;
             }
-            // Adiciona um . antes dos numeros da string
-            if (char.IsDigit(letras))
+            else if (textoEncriptado[i] == '.' && i + 1 < textoEncriptado.Length && char.IsDigit(textoEncriptado[i + 1]))
             {
-                textoEncriptado += $".{letras}";
+                textoOriginal += textoEncriptado[i + 1];
+                i++;
             }
         }
-
-        // Exibe a palavra "encriptada"
-        Console.WriteLine($"Palavra encriptada: {textoEncriptado}");
+        Console.WriteLine($"Texto original: {textoOriginal}");
     }
 }
