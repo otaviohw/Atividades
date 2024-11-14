@@ -1,11 +1,11 @@
 ## Descrição
-O programa recebe uma palavra ou frase digitada pelo usuário, converte todas as letras em maiúsculas e as encripta com base na posição de cada letra no alfabeto. As letras são transformadas em números de 2 dígitos que representam sua posição no alfabeto (A = 01, B = 02, etc.). Caso a entrada contenha números, o programa adiciona um ponto antes de cada número encontrado.
+O programa realiza o processo inverso do programa Encriptar. Ele recebe uma sequência de números encriptados e a converte de volta em texto. Cada par de números (de 2 dígitos) é transformado na letra correspondente à sua posição no alfabeto (01 = A, 02 = B, ..., 26 = Z). Além disso, se a sequência contiver números precedidos por um ponto (.), eles serão preservados como números na saída.
 
 ## Exemplos
 
 | Entrada                          | Saída                        |
 |-----------------------------------|------------------------------|
-| HELLO           | 0805121215 |
-| A1B2C               | 01.1 02.2 03 |
+| 0805121215           | HELLO |
+| 01.1 02.2 03               | A1B2C |
 
 
